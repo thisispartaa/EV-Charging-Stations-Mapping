@@ -1,4 +1,4 @@
-# Texas DCFC Charging Station Network – Tableau Project
+# Texas DCFC Charging Station Network - Tableau Project
 
 ## Overview
 This Tableau project focuses on identifying optimal locations for installing **Direct Current Fast Charging (DCFC)** stations across the state of Texas, United States. The goal is to facilitate long-distance electric vehicle (EV) travel, reduce **range anxiety**, and address common adoption barriers by leveraging clustering analysis and federal/state infrastructure guidelines.
@@ -51,9 +51,10 @@ Read the full project presentation here: [**Google Drive Presentation**](https:/
 ## Conclusion
 Deploying ~67 corridor stations, 276 rest area chargers, and county-seat stations in rural areas can significantly reduce range anxiety and improve EV adoption rates in Texas. This plan combines **federal compliance, geographic analysis, and clustering insights** to create a cost-effective, scalable charging network.
 
-## Future Improvements
+## Future Prospects
 - Incorporate **traffic flow and EV adoption forecasts** to refine station placement.
 - Model **seasonal and peak travel patterns** to optimize charger availability.
 - Include **renewable energy integration** for sustainable charging solutions.
+- Expand EV charging station network to other states in the USA like California, Florida, etc.
 
 ---
